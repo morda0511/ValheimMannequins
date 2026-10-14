@@ -12,7 +12,7 @@
 |---|---|
 | ![Build](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-build.png) | **Build it.** Hammer → Furniture → Mannequin. Rotate it like any piece, it uses the normal build system and ward rules. Default cost 20 Wood and 1 Iron, configurable. |
 | ![Armor](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-armor.png) | **Dress it.** Aim at it and press the hotbar key of an item: armor, cape, belt, weapons and shields appear on the mannequin exactly like on a player. Everything is a real item you can take back. |
-| ![Sets](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-sets.png) | **Gear sets.** Up to 8 sets per mannequin (5 by default). The mannequin shows one set at a time. |
+| ![Sets](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-sets.png) | **Gear sets.** Up to 8 sets per mannequin (5 by default, change it with `SetCount`). The mannequin shows one set at a time. |
 | ![Swap](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-swap.png) | **Swap with yourself.** Aim at it and press **Alt + number**. Your worn gear and the set trade places, weapons on the back come along. |
 | ![Scroll](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-scroll.png) | **Scroll to switch.** Aim at it and use the **mouse wheel** to show the next set. |
 | ![Nameplate](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-nameplate.png) | **Name above the head.** Shown exactly like another player's name. Every gear set has its own name, leave it empty to hide it. |
@@ -34,10 +34,9 @@
 - **Rename** names the active gear set.
 - **Look** opens the appearance settings.
 
-**Swap gear sets** (aim at a mannequin, press **Alt + 1…5**)
+**Swap gear sets** (aim at a mannequin, press **Alt + 1…8**, one key per gear set you have)
 - Your worn gear (armor, cape, belt, both hands) moves into that set and the set's gear is equipped on you.
 - The weapon or shield on the set's back slots goes to your inventory. The set remembers it and takes it back the next time you swap with the same set.
-- A weapon you sold, dropped or used up stays gone. Nothing is ever duplicated.
 - If your inventory is too full, nothing changes.
 
 Removing a mannequin drops every stored item of every set.
