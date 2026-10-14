@@ -76,6 +76,5 @@ The build-menu icon is rendered once and saved as `BepInEx/config/ValheimMannequ
 
 Please attach `BepInEx/LogOutput.log` to your report.
 
-Developers: build instructions are in [BUILDING.md](https://github.com/morda0511/ValheimMannequins/blob/main/BUILDING.md).
 
 ![](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/valheim-mannequins-footer.png)
