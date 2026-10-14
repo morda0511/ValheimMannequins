@@ -64,7 +64,7 @@ The build-menu icon is rendered once and saved as `BepInEx/config/ValheimMannequ
 2. Install [Jotunn](https://thunderstore.io/c/valheim/p/ValheimModding/Jotunn/)
 3. Install Valheim Mannequins on the server **and** on every client
 
-## Known limitations (beta)
+## Known limitations
 
 - Tested in single player. Multiplayer and dedicated servers have not been tested yet.
 - Texts are English only.

@@ -1,7 +1,7 @@
 # Changelog
 
-## 0.3.0 (beta)
-- First public beta.
+## 0.3.0
+- First release.
 - Mannequins with real player model, 15 poses, male/female body.
 - Dress with the hotbar key, manage with E.
 - Up to 8 gear sets per mannequin, each with its own name, swap with Alt+number, switch with the mouse wheel. Back-slot weapons travel with the set.
