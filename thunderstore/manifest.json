@@ -1,0 +1,10 @@
+{
+    "name": "ValheimMannequins",
+    "version_number": "0.3.0",
+    "website_url": "https://github.com/morda0511/ValheimMannequins",
+    "description": "Player-shaped mannequins: dress them with real gear, pose them, name them and keep several gear sets. Swap a set with your own gear on Alt+number. Server + all clients.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350",
+        "ValheimModding-Jotunn-2.30.2"
+    ]
+}

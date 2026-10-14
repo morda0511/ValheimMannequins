@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>ValheimMannequins</AssemblyName>
+    <RootNamespace>ValheimMannequins</RootNamespace>
+    <Version>0.3.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="JotunnLib" Version="2.30.2" IncludeAssets="compile" PrivateAssets="all" />
+  </ItemGroup>
+</Project>

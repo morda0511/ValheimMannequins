@@ -1,0 +1,14 @@
+# build output
+bin/
+obj/
+out/
+*.zip
+*.user
+.vs/
+
+# local settings and private working files (not for the public repo)
+Directory.Build.user.props
+thunderstore-assets/
+PlayerMannequins.Probe/
+ValheimMannequins.Probe/
+*.log
