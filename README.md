@@ -17,7 +17,6 @@
 | ![Scroll](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-scroll.png) | **Scroll to switch.** Aim at it and use the **mouse wheel** to show the next set. |
 | ![Nameplate](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-nameplate.png) | **Name above the head.** Shown exactly like another player's name. Every gear set has its own name, leave it empty to hide it. |
 | ![Poses](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-poses.png) | **15 poses and a look of your own.** Male or female body, hair style and colour, beard, skin tone and eye colour. |
-| ![Panel](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/icon-panel.png) | **One window.** Press **E** on a mannequin to manage sets, items, pose, name and look. |
 
 ![](https://raw.githubusercontent.com/morda0511/ValheimMannequins/main/assets/divider-norse.png)
 
@@ -73,7 +72,9 @@ The build-menu icon is rendered once and saved as `BepInEx/config/ValheimMannequ
 
 ## Bug reports
 
-https://github.com/morda0511/ValheimMannequins/issues, please attach `BepInEx/LogOutput.log`.
+**[DISCORD](https://discord.gg/UcpPJps3n)** · **[GITHUB](https://github.com/morda0511/ValheimMannequins/issues)**
+
+Please attach `BepInEx/LogOutput.log` to your report.
 
 Developers: build instructions are in [BUILDING.md](https://github.com/morda0511/ValheimMannequins/blob/main/BUILDING.md).
 
